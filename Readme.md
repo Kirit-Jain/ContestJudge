@@ -1,6 +1,6 @@
 Live Coding Contest Platform
 
-Shodhai is a full-stack web application that simulates a live coding contest. It's built with a Spring Boot backend, a React/Next.js frontend, and a custom code-judging engine. Users can join a contest, view a list of problems, submit solutions in Java, and see their results and ranking update in real-time on a live leaderboard.
+It is a full-stack web application that simulates a live coding contest. It's built with a Spring Boot backend, a React/Next.js frontend, and a custom code-judging engine. Users can join a contest, view a list of problems, submit solutions in Java, and see their results and ranking update in real-time on a live leaderboard.
 
 Core Features
 1. Multi-Contest Platform: The backend is designed to host multiple independent contests.
